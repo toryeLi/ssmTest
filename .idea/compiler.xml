@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="torey-ssmTest" />
+        <module name="torey-ssmTest2" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ChatRobot" target="1.8" />
+      <module name="hanBan" target="1.8" />
+      <module name="hangBan2" target="1.7" />
+      <module name="hellobeijing" target="1.8" />
+      <module name="torey-ssmTest" target="1.8" />
+      <module name="torey-ssmTest2" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
